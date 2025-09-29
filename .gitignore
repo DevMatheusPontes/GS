@@ -1,0 +1,30 @@
+# Arquivos de usuário e temporários do Visual Studio
+*.sln.dotsettings.user
+*.suo
+*.user
+*.vcxproj.user
+*.sdf
+.vs/
+
+# Diretórios de compilação
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+ipch/
+
+# Arquivos gerados na compilação
+*.lib
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.map
+*.obj
+*.pch
+*.exp
+*.tlog
+*.aps
+
+# Cache de miniaturas do Windows
+Thumbs.db
